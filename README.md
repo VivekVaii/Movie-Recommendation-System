@@ -36,19 +36,17 @@ TMDB 5000 Movie Dataset
 
 ![Home](screenshots/home.png)
 
+### Movie Selection
+
+![Movie List](screenshots/movies_list.png)
+
 ### Recommendations
 
 ![Recommendations](screenshots/recommendations.png)
 
-### Loading Screen
+### More Recommendations
 
-![Loading](screenshots/loading.png)
-
-### Sidebar
-
-![Sidebar](screenshots/about_sidebar.png)
-
----
+![Recommendations 2](screenshots/recommendations2.png)
 
 ## ⚙️ Installation
 
